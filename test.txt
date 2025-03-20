@@ -1,1 +1,1 @@
-Fichero para validar la subida d edocumentos a Git.
+Fichero para validar la subida de documentos a Git..
