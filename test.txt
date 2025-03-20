@@ -1,1 +1,1 @@
-Fichero para validar la subida de documentos a Git. Versión DEV.
+Fichero para validar la subida de documentos a Git. Versión DEV2.
